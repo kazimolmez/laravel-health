@@ -2,6 +2,7 @@
     "name": "kazimolmez/laravel-health",
     "description": "Laravel health check package",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "SystemHealth\\": "src/"
@@ -16,5 +17,7 @@
                 "SystemHealth\\HealthServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
