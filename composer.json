@@ -3,7 +3,7 @@
     "description": "Laravel health check package",
     "type": "library",
     "license": "MIT",
-    "version": "1.6",
+    "version": "1.8",
     "autoload": {
         "psr-4": {
             "SystemHealth\\": "src/"
